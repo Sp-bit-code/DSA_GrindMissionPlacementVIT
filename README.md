@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0001-two-sum) |
 | [0239-sliding-window-maximum](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
