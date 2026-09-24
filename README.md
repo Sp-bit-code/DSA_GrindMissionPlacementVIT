@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0160-intersection-of-two-linked-lists) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
