@@ -53,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0345-reverse-vowels-of-a-string) |
 ## Recursion
