@@ -72,13 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0113-path-sum-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
