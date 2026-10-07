@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0239-sliding-window-maximum) |
+| [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,4 +104,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0101-symmetric-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
