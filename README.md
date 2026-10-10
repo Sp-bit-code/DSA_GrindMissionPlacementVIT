@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
 |  |
 | ------- |
