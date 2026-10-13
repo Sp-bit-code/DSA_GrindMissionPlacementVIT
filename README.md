@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0239-sliding-window-maximum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0345-reverse-vowels-of-a-string) |
 ## Recursion
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
