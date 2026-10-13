@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0061-rotate-list) |
+| [0147-insertion-sort-list](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0147-insertion-sort-list) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
