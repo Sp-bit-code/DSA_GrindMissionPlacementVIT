@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0219-contains-duplicate-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0074-search-a-2d-matrix) |
 | [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0594-longest-harmonious-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
