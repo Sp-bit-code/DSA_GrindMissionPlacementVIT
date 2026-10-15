@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0457-circular-array-loop](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0457-circular-array-loop) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0239-sliding-window-maximum) |
+| [0457-circular-array-loop](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0457-circular-array-loop) |
 | [0493-reverse-pairs](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0493-reverse-pairs) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0643-maximum-average-subarray-i) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0345-reverse-vowels-of-a-string) |
+| [0457-circular-array-loop](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0457-circular-array-loop) |
 ## Recursion
 |  |
 | ------- |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0074-search-a-2d-matrix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
