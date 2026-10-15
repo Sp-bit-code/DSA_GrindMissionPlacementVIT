@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0053-maximum-subarray) |
+| [0647-palindromic-substrings](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0647-palindromic-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0345-reverse-vowels-of-a-string) |
 | [0457-circular-array-loop](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0457-circular-array-loop) |
+| [0647-palindromic-substrings](https://github.com/Sp-bit-code/DSA_GrindMissionPlacementVIT/tree/master/0647-palindromic-substrings) |
 ## Recursion
 |  |
 | ------- |
